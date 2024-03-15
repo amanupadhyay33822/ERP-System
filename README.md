@@ -8,7 +8,7 @@ This repository contains the front end code for a web application. The applicati
 
    ```bash
    git clone <repository-url>
-   ![image](https://github.com/amanupadhyay33822/ERP-System/assets/104005869/36eb1f79-3506-4d22-bdee-20f5070d257e)
+  
 
 
 
