@@ -8,7 +8,9 @@ This repository contains the front end code for a web application. The applicati
 
    ```bash
    git clone <repository-url>
-   ```
+   ![image](https://github.com/amanupadhyay33822/ERP-System/assets/104005869/36eb1f79-3506-4d22-bdee-20f5070d257e)
+
+
 
 2. **Navigate to the Project Directory**: Change your current directory to the project directory:
 
@@ -46,7 +48,7 @@ This repository contains the front end code for a web application. The applicati
 
 ### DASHBOARD
 
-![Picsart_24-03-12_13-15-46-184](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/852b799b-afd6-41b7-b912-bc4b74bd6513)
+ ![image](https://github.com/amanupadhyay33822/ERP-System/assets/104005869/36eb1f79-3506-4d22-bdee-20f5070d257e)
 
 
 The Dashboard page provides an overview of product and order information.
